@@ -6,6 +6,5 @@ Welcome to the Maata universe. This is a world I am building for my Home-brewed 
 - ELves
 - Dwarves
 
-## 
 ## Dieties
-[Sol](religion/sol.html)
+Maata's [Overview](religion/landing.html)
