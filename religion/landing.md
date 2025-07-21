@@ -70,4 +70,4 @@ The ugliest of the major gods, Lehakhshil values the beauty of artifact creation
 *Spys, War, Craftmenship*
 
 
-[Home](/README.md)
+[Home](/Maata)
