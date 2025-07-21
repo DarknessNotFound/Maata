@@ -68,3 +68,6 @@ The ugliest of the major gods, Lehakhshil values the beauty of artifact creation
 ### Exapàtisi
 #### Strategist Mastermind
 *Spys, War, Craftmenship*
+
+
+[Home](/README.md)
