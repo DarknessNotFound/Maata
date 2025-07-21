@@ -29,25 +29,37 @@ Daughter of Baraq, Sa'ar has inherited her father's ability to cause destruction
 #### Final Judgement
 *Death, Judgement, and Taxes*
 
+The only other major god that is born of the primordals, Sheolden loves the constants of life. All governors love him and citizens hate him but all eventaully meet him. Sheolden values making things right in the end, rewarding the earners and punishing the takers.
+
 ### Ka'as
 #### Wrathful Testostrone
 *Anger, Pure Rage, Barbarians*
+
+Fight, Fight, Fight. Ka'as loves fighting and the pure rage of the battlefield. Lord of the redheads, Ka'as believes the angry man wins.
 
 ### Chereb
 #### Discipline Swordsman
 *Soldier, Courage, Discipline*
 
+Hold your line! Chereb is a discipline soldier that loves the sophisticated art of battle. Fighting is a dance that Chereb always wins. Chereb gets frustrated with Ka'as, a man so low in conscientiousness, whom has no appreciation for the dance.
+
 ### Hakham
 #### Wise Historian
 *History, Literature, Magic*
+
+Unaware of his surroundings, Hakham loves his pursuit of knowledge. Society's astute worship him in their own personal pursuit of knowledge. You can usually find him at the Great Library of Hakham, located in Tarnathia. Hakham enjoys a friendship with Lehakhshil where they collaborate often.
 
 ### Lehakhshil
 #### Fire & Forge
 *Forge, Artisians, Fire*
 
+The ugliest of the major gods, Lehakhshil values the beauty of artifact creation. All blacksmiths aspire to get his attention through their forging. Lehakshshil commonly rewards master blacksmiths by blessing their mortal creations. Lehakhshil spends most of his time in his forge on Mount Naz located in West Griston. Hakham is a good friend and Lehakhshil enjoys making tools for his various experiments.
+
 ### Sitàri
 #### Farming & Orchords
 *Wheat, Apples, and Music*
+
+
 
 ### Khavish
 #### Travelers, Theives, and Fun

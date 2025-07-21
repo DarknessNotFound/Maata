@@ -3,7 +3,7 @@ Welcome to the Maata universe. This is a world I am building for my Home-brewed 
 
 ## Races
 - Humans
-- ELves
+- Elves
 - Dwarves
 
 ## Dieties
