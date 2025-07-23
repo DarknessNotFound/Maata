@@ -2,4 +2,4 @@
 
 [Major Gods](major.html)
 
-[Home](../) [Religion](landing.html)
+[Home](~) [Religion](~/religion/landing.html)
