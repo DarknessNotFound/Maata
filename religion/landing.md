@@ -2,4 +2,4 @@
 
 [Major Gods](major.html)
 
-[Home](Maata) [Religion](landing.html)
+[Home](../) [Religion](landing.html)
