@@ -71,5 +71,3 @@ A sly smile and a quick wink is all it takes to lose your wallet. Khavish is the
 *Spys, War, Craftmenship*
 
 War general by day, painter by night. Originally a mere mortal, Exapàtisi ascended to godhood through his legendary tatics and strategy. Accepting diety status to enjoy the arts, Exapàtisi is forced to fulfill his duties as the cheif war general. Fortunately, he studies his enemies' art and culture for inspiration to conquer them, this makes 5 o'clock appear that much faster.
-
-[Home](Maata) [Religion](landing.html)
