@@ -1,5 +1,5 @@
 # Maata Diety System
 
-[Major Gods](religion/major.html)
+[Major Gods](major.html)
 
 [Home](Maata) [Religion](landing.html)
