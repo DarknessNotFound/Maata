@@ -1,5 +1,7 @@
 # List of Countries
 
+![Maata's world map](images/Maata-World-Map.jpg "The Continent of Maata")
+
 - [Athion](athion.html)
 - Celestara
 - North Chador
