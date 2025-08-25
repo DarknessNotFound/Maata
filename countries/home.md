@@ -1,6 +1,6 @@
 # List of Countries
 
-![Maata's world map](../images/Maata-World-Map.jpg "The Continent of Maata")
+![Maata's world map](../Images/Maata-World-Map.jpg "The Continent of Maata")
 
 - [Athion](athion.html)
 - Celestara
