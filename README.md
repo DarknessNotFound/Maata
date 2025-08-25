@@ -1,6 +1,8 @@
 # Maata
 Welcome to the Maata universe. This is a world I am building for my Home-brewed campaign. This contains world notes, campaign diaries, etc.
 
+![Maata's world map](./Images/Maata-World-Map.jpg "The Continent of Maata")
+
 ## Races
 - Humans
 - Elves
