@@ -3,13 +3,12 @@ Welcome to the Maata universe. This is a world I am building for my Home-brewed 
 
 ![Maata's world map](./Images/Maata-World-Map.jpg "The Continent of Maata")
 
+## [Countries](countries/home.html)
+
 ## Races
 - Humans
 - Elves
 - Dwarves
-
-## [Map](countries/home.html)
-
 
 ## Religion
 Maata's world has a completely custom system of dieties. 
