@@ -23,3 +23,5 @@ The Ilthunia League maintains decent relations to the Griston League to the sout
 The [Athions](athion.html) maintain tense relations with Ilthunia. There exists political factions amongst Muscoda that wish to recapture the wealth of Athions and the Athions are well aware of their intentions.
 
 The Norena Kingdom to the north currently maintains stable relations with Ilthunians. However, there are significant cultural difference which hampers relations.
+
+![Ilthunia League Regional Map](../Images/Ilthunia-League.jpg "Ilthunia League")
