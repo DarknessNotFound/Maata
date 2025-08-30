@@ -24,4 +24,4 @@ List of NPC's, organized by country then city.
 ## Organizations
 Continental organizations, with a few additional ones.
 
-[Overview](organizations/home.html)
+[Overview](Organizations/home.html)
