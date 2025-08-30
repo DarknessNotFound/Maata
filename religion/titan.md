@@ -58,4 +58,4 @@ Metisra is the quiet voice of reason, guiding mortals and gods alike with insigh
 ### Morion  
 #### Titan of Doom  
 *Endings, Ruin, Transformation*  
-Morion brings endings, but also transformation. He is feared and respected, for all things must eventually fall to his touch. Those who accept change and embrace new beginnings find
+Morion brings endings, but also transformation. He is feared and respected, for all things must eventually fall to his touch. Those who accept change and embrace new beginnings find...
