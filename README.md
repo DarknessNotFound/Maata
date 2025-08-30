@@ -20,3 +20,8 @@ List of NPC's, organized by country then city.
 *Note, will probably change*
 
 [Overview](npc/home.html)
+
+## Organizations
+Continental organizations, with a few additional ones.
+
+[Overview](organizations/home.html)

@@ -1,0 +1,2 @@
+# Society for Ancient Wisdom
+A scholarly group dedicated to the study of forgotten mythologies and the preservation of ancient traditions. All are welcome to join lectures, participate in historical research, and check out the museum.
