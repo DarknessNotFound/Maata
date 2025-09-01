@@ -5,6 +5,8 @@ Welcome to the Maata universe. This is a world I am building for my Home-brewed 
 
 ## [Countries](countries/home.html)
 
+- [Ilthunia League](countries/ilthunia-league.html)
+
 ## Races
 - Humans
 - Elves
