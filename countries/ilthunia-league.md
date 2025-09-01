@@ -24,4 +24,9 @@ The [Athions](athion.html) maintain tense relations with Ilthunia. There exists 
 
 The Norena Kingdom to the north currently maintains stable relations with Ilthunians. However, there are significant cultural difference which hampers relations.
 
+## Notable Cities
+
+- Port Illunia
+- Muscoda
+- [Wind Hills](./cities/wind-hills.html)
 ![Ilthunia League Regional Map](../Images/Ilthunia-League.jpg "Ilthunia League")
