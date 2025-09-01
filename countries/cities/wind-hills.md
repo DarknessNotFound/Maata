@@ -50,5 +50,5 @@ A serene temple dedicated to Lyris, offering guidance and blessings to those see
 ### O: Temple of Sitàri  
 A vibrant place of worship for Sitàri, where festivals and rituals celebrate the deity’s ability to grow and tend crops.
 
-### P: Shipyard of the Wind Hills Saints  
-A prestigious shipyard operated by the Wind Hills Saints, famed for constructing legendary ships that sail far and wide.
+### P: Dockyard of the Wind Hills Saints  
+A prestigious dockyard operated by the Wind Hills Saints, famed for prepping ships for trade up and down the river.
